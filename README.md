@@ -43,10 +43,4 @@ Enter first number: 10
 Enter second number: 5
 Result: 15.0
 
- Future Improvements 
- 
-- Add support for exponentiation and modulus
-- Save history to a file
-- Add unit tests
-- Create a GUI version using Tkinter
 
